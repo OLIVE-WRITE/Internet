@@ -4,7 +4,7 @@ In this Article you will be learnig in detail the following.
 * What The internet Is All About.
 * How The Internet Works?
 * What Controls The Internet?
-* The The Social Impact Of The Internet.
+* The Social Impact Of The Internet.
 
 
 
@@ -33,6 +33,8 @@ These various types of hardware are the connections within the network. Devices 
 
 
 
+# What Controls The Internet?
+
 
 
 
@@ -52,5 +54,4 @@ Firstly, it makes life extraordinarily easier. Banking, shopping, and direct com
   
 Data storage and retrieval is faster. Cloud platforms of all types offer software, hardware, security, and development platforms that reduce the enormous capital costs many organizations were spending on their IT. It gives organizations access to a glut of resources, no more important than a growing mobile workforce that is available around the clock, promoting better productivity. It provides the opportunity to streamline all types of work, whether it be reducing face-to-face interactions with your vendors, or utilizing tracking software that helps administrators build more efficient business practices.
 
-The Internet has provided a social outlet to people who didn’t have one. The use of social media has made it to become so easy the way people share and communicate. Each person has the freedom to do whatever they choose online, and often this results in positive action. Many important groups that have been marginalized for one reason or another are now able to promote their platforms thoroughly.
-
+The Internet has provided a social outlet to people who didn’t have one. The use of <mark>social</mark> media has made it to become so easy the way people share and communicate. Each person has the freedom to do whatever they choose online, and ```often``` this results in positive action. Many important groups that have been marginalized for one reason or another are now able to promote their platforms <mark>thoroughly.
