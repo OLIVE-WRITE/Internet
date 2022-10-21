@@ -1,5 +1,5 @@
 # INTERNET
-In this Article you will be learnig in detail the following.
+In this Article you will be learning in detail the following.
   
 * What The internet Is All About.
 * How The Internet Works?
@@ -12,13 +12,13 @@ In this Article you will be learnig in detail the following.
 ## __What the internet is all about.__
 
 
-The Internet, which is also konwn to be  "the Net," is a worldwide system of computer network, it is a networks in which users can share and get informations anywhere if permitted.
+The Internet, which is also known to be  "the Net," is a worldwide system of computer network, it is a network in which users can share and get informations anywhere if permitted.
 
 It was conceived by the Advanced Research Projects Agency (ARPA) of the U.S. government in 1969 and was first known as the ARPANET. The original aim was to create a network that would allow users of a research computer at one university to "talk to" research computers at other universities. A side benefit of ARPANet's design was that, because messages could be routed or rerouted in more than one direction, the network could continue to function even if parts of it were destroyed in the event of a military attack or other disaster.
 
-## __How The Interet Works__
+## __How The Internet Works__
 
-Physically, the Internet uses a portion of the total resources of the currently existing public telecommunication networks. Technically, what distinguishes the Internet is its use of a set of protocols called Transmission Control Protocol/Internet Protocol (TCP/IP). Two recent adaptations of Internet technology, the Intranet and the extranet, also make use of the TCP/IP protocol.
+Physically, the Internet uses a portion of the total resources of the currently existing public telecommunication networks. Technically, what distinguishes the Internet is it's use of a set of protocols called Transmission Control Protocol/Internet Protocol (TCP/IP). Two recent adaptations of Internet technology, the Intranet and the extranet, also make use of the TCP/IP protocol.
 
 The Internet can be seen as having two major components: network protocols and hardware. The protocols, such as the TCP/IP suite, present sets of rules that devices must follow in order to complete tasks. Without this common collection of rules, machines would not be able to communicate.
 
